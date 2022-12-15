@@ -1,1 +1,2 @@
 combination of first and second  text document for git hub
+perfectly done first test
